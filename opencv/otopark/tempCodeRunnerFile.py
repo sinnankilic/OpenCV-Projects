@@ -1,0 +1,1 @@
+cv2.putText(frame,f"bos: {counter} / {len(liste)}",(15,24),cv2.FONT_HERSHEY_DUPLEX,1,(255,0,0),3)
